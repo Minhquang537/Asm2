@@ -152,11 +152,11 @@ session_start();
  </div>
 <div class="menu">
 <ul>
-<li><a href="http://localhost/Toys/index.php"> Home page </a></li>
-<li><a href="http://localhost/Toys/introduction.php"> itroduction </a></li>
-<li><a href="http://localhost/Toys/login2.php">Login</a></li>
-<li><a href="http://localhost/Toys/dangnhap.php">Register</a></li>
-<li><a href="http://localhost/Toys/add_product.php">Add Product</a></li>
+<li><a href="http://localhost/asm2/index.php"> Home page </a></li>
+<li><a href="http://localhost/asm2/introduction.php"> itroduction </a></li>
+<li><a href="http://localhost/asm2/login2.php">Login</a></li>
+<li><a href="http://localhost/asm2/dangnhap.php">Register</a></li>
+<li><a href="http://localhost/asm2/add_product.php">Add Product</a></li>
 </ul>
 </div>
 <div class="banner">        
